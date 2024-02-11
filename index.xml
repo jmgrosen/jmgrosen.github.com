@@ -6,6 +6,12 @@
       <description>Last 10 notes on it&#039;s jessie</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>mustard watches</title>
+    <link>https://jessie.grosen.systems/talks/mustard-watches</link>
+    <guid>https://jessie.grosen.systems/talks/mustard-watches</guid>
+    <description>i gave a short talk on y j ringard’s famous 1990 paper “mustard watches: an integrated approach to time and food” at cmu plunch on march 4, 2022. i covered both the material in the original paper and some of the developments that have happened since.</description>
+    <pubDate>Mon, 01 Jan 2024 18:43:16 GMT</pubDate>
+  </item><item>
     <title>distance audio modulator</title>
     <link>https://jessie.grosen.systems/posts/distance-audio-modulator</link>
     <guid>https://jessie.grosen.systems/posts/distance-audio-modulator</guid>
