@@ -12,12 +12,6 @@
     <description>i managed to catch a ride on one of the MTA’s fancy new trains with open gangways! they were quite snazzy and functional—i saw many people standing in the gangway while it was more crowded and rode just fine in it myself.</description>
     <pubDate>Sun, 11 Feb 2024 23:05:32 GMT</pubDate>
   </item><item>
-    <title>mustard watches</title>
-    <link>https://jessie.grosen.systems/talks/mustard-watches</link>
-    <guid>https://jessie.grosen.systems/talks/mustard-watches</guid>
-    <description>i gave a short talk on y j ringard’s famous 1990 paper “mustard watches: an integrated approach to time and food” at cmu plunch on march 4, 2022. i covered both the material in the original paper and some of the developments that have happened since.</description>
-    <pubDate>Mon, 01 Jan 2024 18:43:16 GMT</pubDate>
-  </item><item>
     <title>distance audio modulator</title>
     <link>https://jessie.grosen.systems/posts/distance-audio-modulator</link>
     <guid>https://jessie.grosen.systems/posts/distance-audio-modulator</guid>
@@ -29,6 +23,12 @@
     <guid>https://jessie.grosen.systems/</guid>
     <description>hey there .</description>
     <pubDate>Wed, 29 Nov 2023 04:15:01 GMT</pubDate>
+  </item><item>
+    <title>mustard watches</title>
+    <link>https://jessie.grosen.systems/talks/mustard-watches</link>
+    <guid>https://jessie.grosen.systems/talks/mustard-watches</guid>
+    <description> i gave a short talk on y j ringard’s famous 1990 paper “mustard watches: an integrated approach to time and food” at cmu plunch on march 4, 2022. i covered both the material in the original paper and some of the developments that have happened since.</description>
+    <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
