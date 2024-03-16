@@ -6,6 +6,12 @@
       <description>Last 10 notes on it&#039;s jessie</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Zoom G1Xon control</title>
+    <link>https://jessie.grosen.systems/projects/miscellanea/Zoom-G1Xon-control</link>
+    <guid>https://jessie.grosen.systems/projects/miscellanea/Zoom-G1Xon-control</guid>
+    <description>these are notes from a project zero and i did to control the Zoom G1Xon guitar multi-effects pedal in real-time over USB. there are various pieces of software to edit and store patches for Zoom pedals, but they’re not so great for real-time control.</description>
+    <pubDate>Sat, 16 Mar 2024 03:26:11 GMT</pubDate>
+  </item><item>
     <title>mta projection</title>
     <link>https://jessie.grosen.systems/projects/mta-projection</link>
     <guid>https://jessie.grosen.systems/projects/mta-projection</guid>
